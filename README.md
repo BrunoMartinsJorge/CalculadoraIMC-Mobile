@@ -1,2 +1,3 @@
-# calculadora_imc_flutter
-Trabalho em Flutter para criar uma calculadora de IMC com Flutter
+# calc_imc
+
+A new Flutter project.
