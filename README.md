@@ -63,7 +63,7 @@ flutter doctor
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/seu-usuario/calculadora_imc_flutter.git
+git clone https://github.com/BrunoMartinsJorge/CalculadoraIMC-Mobile.git
 cd calculadora_imc_flutter
 
 # 2. Instalar dependências
